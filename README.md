@@ -1,6 +1,6 @@
 ## SOLUTECH Interview Solution
 
-👀 Solution code for the Route-to-Market (RTM) Sales Force Automation app. app for crossplatform
+👀 Solution code for the Route-to-Market (RTM) Sales Force Automation app. app for cross-platform
 using [flutter](https://flutter.dev/).
 The final app looks like this:
 
@@ -24,7 +24,7 @@ The final app looks like this:
 
 ### Prerequisites
 
-- Before running this app, you need to have java 19 installed:
+- Before running this app, you need to have Java 19 installed:
 
 - Ensure the minimum sdk set above 21 and multiDexEnabled set to true on app/build.gradle:
 
@@ -35,7 +35,7 @@ The final app looks like this:
     }
 ```
 
-- Ensure the compile sdk is set to 34:
+- Ensure the compile SDK is set to 34:
 
 ```shell script
     android {
@@ -81,27 +81,27 @@ The app should allow a sales rep to:
 
 ## Dependencies
 
-All the dependencies (external libraries) are defined in the single place - pubspec.yaml.
+All dependencies (external libraries) are defined in a single place: pubspec.yaml.
 
 ## License
 
 ```
 MIT License
 
-Copyright (c) 2025 Juma Paul
+Copyright (c) 2025 AmenyaEngr
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
-associated documentation files (the "Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+associated documentation files (the "Software"), to deal with the Software without restriction, including
+without limitation, the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to
 the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial
+The above copyright notice and this permission notice shall be included in all copies or substantial portions
 portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
 NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF  TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+SOFTWARE OR THE USE OF OTHER DEALINGS IN THE SOFTWARE.
 ```
